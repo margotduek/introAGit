@@ -1,6 +1,7 @@
 #include <iostream>
+k
 
 int main(){
-
-  return 0;
+ñmñkvad
+ 
 }
