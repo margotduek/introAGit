@@ -1,7 +1,11 @@
 #include <iostream>
-k
 
 int main(){
-ñmñkvad
- 
+  hola
+vamos a tener problemas de  merge 
+
+
+  return 0;
+okascjio
+cxzjiomk
 }
